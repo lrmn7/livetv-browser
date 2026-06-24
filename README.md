@@ -1,6 +1,6 @@
 # Live TV 
 
-Live TV adalah project Next.js untuk belajar membuat website streaming live TV berbasis playlist M3U/HLS. Aplikasi ini dapat membaca playlist eksternal, menampilkan daftar channel, mencari channel, memfilter kategori, menyimpan favorit di browser, dan memutar stream HLS melalui web player.
+Live TV adalah project Next.js untuk belajar membuat website streaming live TV berbasis playlist M3U/HLS.
 
 ## Fitur
 
